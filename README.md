@@ -3,7 +3,9 @@ A dataset containing 30 Xbee S2C transmitter data for both including and excludi
 
 ## Download Link
 * ### **Drive**: [Sparclab RF-PUF Dataset Download Link 1](https://purdue0-my.sharepoint.com/:f:/g/personal/mbari_purdue_edu/Ep3x0kmSL-hFum0w4nqMH44BXTlfUEWooPrfhQ184HDt5A?e=qGzpRQ) 
-* ### **Box**: To download from box, you will need permission from Dr Sen first. Just send an email at shreyas@purdue.edu. Once he grants access, you can download directly at this link [Sparclab RF-PUF Dataset Download Link 2](https://purdue.box.com/v/sparclab-rf-puf-dataset)
+* ### **Box**: [Sparclab RF-PUF Dataset Download Link 2](https://purdue.box.com/v/sparclab-rf-puf-dataset)
+Note: To download from **BOX**, you will need permission from Dr Sen first. Just send an email at shreyas@purdue.edu. Once he grants access, you can download directly from the link above. 
+### ___For any issue regarding this dataset, download links, or any feedback, send an email to Md Faizul Bari at mbari@purdue.edu___
 
 ## Cite This Dataset
 If you use this dataset, please cite this paper:
