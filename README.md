@@ -1,2 +1,23 @@
 # Sparclab-RF-PUF-Dataset
 A dataset containing 30 Xbee S2C transmitter data for both including and excluding wireless channel
+
+## Download Link
+>>>
+
+## Cite This Dataset
+If you use this dataset, please cite this paper:
+
+## Experimental Setup
+* **Transmitter**: Xbee S2C module, 30 modules used as 30 transmitters. To know detail about Xbee S2C, check: https://www.digi.com/resources/library/data-sheets/ds_xbee-s2c-802-15-4
+
+![XBEE](https://user-images.githubusercontent.com/72578615/149040002-a0e61e44-7c8d-42cc-97dd-ad27ca134eb7.png)
+
+* ### **Receiver**: 1 Xbee S2C module used as a receiver.
+* ### **SDR**: Hack-RF One module used as a software-defined radio that is used to sniff data
+* ### **Software**: Raw data are collected and stored using GNURadio in binary format (these are the files provided above as downloadables). These binary files are processed in MATLAB.
+* ### **Description**: 
+TX and RX are kept 1m apart. A 31-bit pseudo-random bit sequence (PRBS) was generated in MATLAB and fed to each TX which transmitted data for 60 sec with QPSK modulation at 2.465 GHz and 230400 bps baud rate. A Hack-RF SDR was connected either to the TX (case1: HackRF getting data directly from TX, ignoring wireless channel) or RX (case2: HackRF getting received data, hence wireless channel is being considered) using a SMA cable. Data captured on HackRF are sampled at 6 mega sample per second and stored in binary format. 
+
+![setup](https://user-images.githubusercontent.com/72578615/149039733-ab89b788-e0b8-491e-a831-2b7628e9bd46.png)
+
+GNURadio also shows live constellation of collected data at a certain time interval. Since data samples within that interval have different freqeuncy offset, the live constellation looks as if it is rotating (shown in the left inset above). After processing the data in Matlab and correcting for frequency offset and timing error, the constellation looks as it should be in QPSK modulation (shown in the right inset above) 
