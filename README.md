@@ -7,7 +7,8 @@ A dataset containing 30 Xbee S2C transmitter data for both including and excludi
 ### ___For any issue regarding this dataset, download links, or any feedback, send an email to Md Faizul Bari at mbari@purdue.edu___
 
 ## Cite This Dataset
-If you use this dataset, please cite this paper:
+If you use this dataset, please cite this paper: M. F. Bari, P. Agrawal, B. Chatterjee, and S. Sen, “Statistical Analysis Based Feature Selection Enhanced RF-PUF With >99.8% Accuracy on Unmodified Commodity Transmitters for IoT Physical Security,” Frontiers in Electronics, vol. 3, Apr. 2022, doi: https://doi.org/10.3389/felec.2022.856284.
+‌
 
 ## Experimental Setup
 * **Transmitter**: Xbee S2C module, 30 modules used as 30 transmitters. To know detail about Xbee S2C, check: https://www.digi.com/resources/library/data-sheets/ds_xbee-s2c-802-15-4
