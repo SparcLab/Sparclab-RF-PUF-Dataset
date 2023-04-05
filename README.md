@@ -7,7 +7,7 @@ A dataset containing 30 Xbee S2C transmitter data for both including and excludi
 ### ___For any issue regarding this dataset, download links, or any feedback, send an email to Md Faizul Bari at mbari@purdue.edu___
 
 ## Cite This Dataset
-If you use this dataset, please cite ![this paper](https://www.frontiersin.org/articles/10.3389/felec.2022.856284/full): 
+If you use this dataset, please cite [this paper](https://www.frontiersin.org/articles/10.3389/felec.2022.856284/full) : 
 
 **M. F. Bari, P. Agrawal, B. Chatterjee, and S. Sen, “Statistical Analysis Based Feature Selection Enhanced RF-PUF With >99.8% Accuracy on Unmodified Commodity Transmitters for IoT Physical Security,” Frontiers in Electronics, vol. 3, Apr. 2022, doi: https://doi.org/10.3389/felec.2022.856284.**
 ‌
